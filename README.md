@@ -1,3 +1,7 @@
+
+<img width="821" height="642" alt="Screenshot 2026-02-18 at 12 42 10" src="https://github.com/user-attachments/assets/0926cf92-aaf0-49ba-8e9f-36b8bbce8c55" />
+
+
 Assignment 1: Support Dashboard with Chat Interface
 
 Course: Frontend Web Development
